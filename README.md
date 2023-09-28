@@ -6,6 +6,7 @@
 * [Programming Foundations - Level 1](https://programmingadvices.com/courses/1808721/certificate)
 * [Algorithms & Problem-Solving Level 1](https://programmingadvices.com/courses/1810501/certificate)
 * [Programming Using C++ - Level 1](https://programmingadvices.com/courses/1811421/certificate)
+* [Algorithms & Problem-Solving Level 1 Solutions](https://programmingadvices.com/courses/1811450/certificate)
 
 ---
 
