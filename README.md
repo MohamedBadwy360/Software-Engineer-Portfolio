@@ -1,20 +1,9 @@
 # Backend-Software-Engineer-Portfolio
 
-
-## `Certificates`
-
-* [Programming Foundations - Level 1](https://programmingadvices.com/courses/1808721/certificate)
-* [Algorithms & Problem-Solving Level 1](https://programmingadvices.com/courses/1810501/certificate)
-* [Programming Using C++ - Level 1](https://programmingadvices.com/courses/1811421/certificate)
-* [Algorithms & Problem-Solving Level 1 Solutions](https://programmingadvices.com/courses/1811450/certificate)
-* [Algorithms & Problem-Solving Level 2 ](https://programmingadvices.com/courses/1811531/certificate)
-* [Introduction to Programming Using C++ Level 2](https://programmingadvices.com/courses/1827205/certificate)
-
----
-
-## `Course Work`
+## `Courses Work & Certificates`
 
 * [Introduction to Programming Using C++ - Level 1](https://github.com/MohamedBadwy360/Introduction-to-Programming-Using-C---Level-1)
 * [Algorithms & Problem-Solving Level 1 Solutions](https://github.com/MohamedBadwy360/Algorithms-Problem-Solving-Level-1-Solutions)
 * [Algorithms & Problem-Solving Level 2](https://github.com/MohamedBadwy360/Algorithms-Problem-Solving-Level-2)
 * [Introduction to Programming Using C++ Level 2](https://github.com/MohamedBadwy360/Introduction-to-Programming-Using-C-Level-2)
+* [Algorithms & Problem-Solving Level 3](https://github.com/MohamedBadwy360/Algorithms-Problem-Solving-Level-3)
