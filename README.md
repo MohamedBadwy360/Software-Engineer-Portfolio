@@ -11,3 +11,4 @@
 * [OOP as it Should Be(Concepts)](https://github.com/MohamedBadwy360/OOP-as-it-Should-Be-Concepts)
 * [OOP as it Should Be(Applications)](https://github.com/MohamedBadwy360/OOP-as-it-Should-Be-Applications)
 * [Data Structures - Level1](https://github.com/MohamedBadwy360/Data-Structures-Level1)
+* [Algorithms & Problem Solving Level 5](https://github.com/MohamedBadwy360/Algorithms-Problem-Solving-Level-5)
