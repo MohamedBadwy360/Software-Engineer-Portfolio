@@ -13,3 +13,4 @@
 * [Data Structures - Level1](https://github.com/MohamedBadwy360/Data-Structures-Level1)
 * [Algorithms & Problem Solving Level 5](https://github.com/MohamedBadwy360/Algorithms-Problem-Solving-Level-5)
 * [C# - Level 1](https://github.com/MohamedBadwy360/C-Sharp-Level-1)
+* [Database Level 1 - SQL (Concepts and Practice)](https://github.com/MohamedBadwy360/Database-Level-1-SQL-Concepts-and-Practice)
