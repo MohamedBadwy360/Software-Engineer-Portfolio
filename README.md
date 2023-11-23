@@ -15,3 +15,4 @@
 * [C# - Level 1](https://github.com/MohamedBadwy360/C-Sharp-Level-1)
 * [Database Level 1 - SQL (Concepts and Practice)](https://github.com/MohamedBadwy360/Database-Level-1-SQL-Concepts-and-Practice)
 * [OOP As It Should Be In C#](https://github.com/MohamedBadwy360/OOP-As-It-Should-Be-In-C-Sharp)
+* [Database - SQL ( Projects & Practice)](https://github.com/MohamedBadwy360/Database-SQL-Projects-and-Practice)
