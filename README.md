@@ -3,7 +3,7 @@
 ## `Skill Based Projects`
 
 ### Restful Services(Rest APIs)
-* [API Demo](https://github.com/MohamedBadwy360/API-Demo): Utilize C#, ASP.NET Core, and Entity Framework to implement Restful Service for Employee applying Repository Pattern with Unit of Work.
+* [EmployeeAPI Demo](https://github.com/MohamedBadwy360/API-Demo): Utilize C#, ASP.NET Core, and Entity Framework to implement Restful Service for Employee applying Repository Pattern with Unit of Work.
   
 
 ## `Courses Work & Certificates`
