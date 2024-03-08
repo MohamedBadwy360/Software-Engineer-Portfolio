@@ -3,6 +3,7 @@
 ## `Skill Based Projects`
 
 ### Restful Services(Rest APIs)
+* [MoviesAPI](https://github.com/MohamedBadwy360/MoviesAPI): Utilize C#, ASP.NET Core, and Entity Framework to implement Restful Service for Movies.
 * [EmployeeAPI Demo](https://github.com/MohamedBadwy360/API-Demo): Utilize C#, ASP.NET Core, and Entity Framework to implement Restful Service for Employee applying Repository Pattern with Unit of Work.
   
 
