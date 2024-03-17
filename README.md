@@ -7,8 +7,9 @@
 
 ## `Skill Based Projects`
 
-### Restful APIs
-* [MoviesAPI](https://github.com/MohamedBadwy360/MoviesAPI): Utilize C#, ASP.NET Core, SQL Server Object Browser, and Entity Framework to implement REST API for Movies.
+### REST APIs
+* [Board Games Web API](https://github.com/MohamedBadwy360/Board-Games-Web-API): Utilize C#, ASP.NET Core, Microsoft SQL Server, and Entity Framework implementing CRUD operations for Board Games to feed a Board Games Club Website.
+* [Movies Web API](https://github.com/MohamedBadwy360/MoviesAPI): Utilize C#, ASP.NET Core, SQL Server Object Browser, and Entity Framework to implement REST API for Movies.
 * [EmployeeAPI Demo](https://github.com/MohamedBadwy360/API-Demo): Utilize C#, ASP.NET Core, SQL Server Object Browser, and Entity Framework to implement REST API for Employee applying Repository Pattern with Unit of Work.
 
 ---
