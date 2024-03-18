@@ -1,11 +1,11 @@
 # Backend Software Engineer Portfolio
 
-## `End to End Projects`
+## End to End Projects
 ### [Driving License Management System](https://github.com/MohamedBadwy360/Driving-License-Management-System-Backend-Project)
 
 ---
 
-## `Skill Based Projects`
+## Skill Based Projects
 
 ### REST APIs
 * [Board Games Web API](https://github.com/MohamedBadwy360/Board-Games-Web-API): Utilize C#, ASP.NET Core, Microsoft SQL Server, and Entity Framework implementing CRUD operations for Board Games to feed a Board Games Club Website.
@@ -14,7 +14,7 @@
 
 ---
 
-## `Courses Work & Certificates`
+## Courses Work & Certificates
 
 * [Introduction to Programming Using C++ - Level 1](https://github.com/MohamedBadwy360/Introduction-to-Programming-Using-C---Level-1)
 * [Algorithms & Problem-Solving Level 1 Solutions](https://github.com/MohamedBadwy360/Algorithms-Problem-Solving-Level-1-Solutions)
