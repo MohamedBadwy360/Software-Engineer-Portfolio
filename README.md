@@ -41,5 +41,5 @@
 
 ### .NET
 * [Language Integrated Query-LINQ](https://github.com/MohamedBadwy360/Language-Integrated-Query-LINQ)
-
+* [Data Access & EntityFramework Core](https://github.com/MohamedBadwy360/Data-Access-EntityFramework-Core)
 
