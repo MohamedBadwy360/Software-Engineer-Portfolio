@@ -39,6 +39,8 @@
 * [Data Structures Level 2 in C#](https://github.com/MohamedBadwy360/Data-Structures-Level-2-in-C-Sharp)
 * [Algorithms](https://github.com/MohamedBadwy360/Algorithms)
 
+* [Design Principles](https://github.com/MohamedBadwy360/Design-Principles)
+
 
 ### .NET
 * [Language Integrated Query-LINQ](https://github.com/MohamedBadwy360/Language-Integrated-Query-LINQ)
