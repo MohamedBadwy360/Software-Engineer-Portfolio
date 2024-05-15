@@ -38,7 +38,6 @@
 * [Database Level2 - Concepts & T-SQL](https://github.com/MohamedBadwy360/Database-Level2-Concepts-T-SQL)
 * [Data Structures Level 2 in C#](https://github.com/MohamedBadwy360/Data-Structures-Level-2-in-C-Sharp)
 * [Algorithms](https://github.com/MohamedBadwy360/Algorithms)
-
 * [Design Principles](https://github.com/MohamedBadwy360/Design-Principles)
 
 
