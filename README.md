@@ -1,7 +1,20 @@
 # Backend Software Engineer Portfolio
 
 ## End to End Projects
+
+### [Veterinary Clinic Management System](https://github.com/MohamedBadwy360/Veterinary-Clinic-Management-System-Backend-Project)
+
+* Developed a comprehensive backend system using `C#`, `.NET`, and `ASP.NET Core Web API`.
+* Designed and implemented `RESTful APIs` for managing cases, patients, doctors, prescriptions, and billing.
+* Utilized `Entity Framework Core` for data access and `SQL Server` for data storage.
+* Implemented `Auto Mapper` for object-to-object mapping, enhancing code maintainability.
+* Applied the `Repository Pattern with Unit of Work` to manage database operations efficiently.
+* Used `Generic Response` pattern to standardize API responses.
+* Conducted `unit testing using xUnit` to ensure code reliability and functionality and validate API endpoints and business logic.
+
+
 ### [Driving License Management System](https://github.com/MohamedBadwy360/Driving-License-Management-System-Backend-Project)
+
 * I Utilized `C#`, `ASP.NET Core`, `SQL Server`, `Entity Framework`, `Identity`, `Visual Studio`, `Visual Studio Code`, and `EF Power Tools` to implement `REST API` for Driving License Management System.
 * I implemented `Repository Pattern with Unit of Work`, applied the `Database-First Approach` to create a database and used `EF Power Tools` to generate models, and applied `OOP`, RESTful API using `Controllers (MVC)`, `Asynchronous Programming`, managing users and roles using `Identity`, and `Authentication and Authorization using JWT`.
 
