@@ -10,6 +10,7 @@
 * Implemented `Auto Mapper` for object-to-object mapping, enhancing code maintainability.
 * Applied the `Repository Pattern with Unit of Work` to manage database operations efficiently.
 * Used `Generic Response` pattern to standardize API responses.
+* Implemented Identity and JWT for authentication and authorization.
 * Conducted `unit testing using xUnit` to ensure code reliability and functionality and validate API endpoints and business logic.
 
 
