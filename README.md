@@ -57,6 +57,7 @@
 
 
 ### .NET
+* [Mastering C#.NET](https://github.com/MohamedBadwy360/C-Sharp)
 * [Language Integrated Query-LINQ](https://github.com/MohamedBadwy360/Language-Integrated-Query-LINQ)
 * [Data Access & EntityFramework Core](https://github.com/MohamedBadwy360/Data-Access-EntityFramework-Core)
 * [Unit Testing - xUnit](https://github.com/MohamedBadwy360/UnitTesting-xUnit)
